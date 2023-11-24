@@ -1,3 +1,9 @@
+commit 0d5654dd62e3cab78d0d01e944c40bb7b4b1661e
+Author: Qijing <q.wang0220222@arts.ac.uk>
+Date:   Fri Nov 24 06:47:37 2023 +0000
+
+    change the major key and  sound effect of music
+
 commit 380b0e430999161dfa7f64fa4033db8bbeda1e42
 Author: Qijing <q.wang0220222@arts.ac.uk>
 Date:   Fri Nov 24 06:41:48 2023 +0000
