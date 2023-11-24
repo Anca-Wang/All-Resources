@@ -1,3 +1,21 @@
+commit ff3527e79a98293c2653488e7517c8f9c28ca194
+Author: Qijing <q.wang0220222@arts.ac.uk>
+Date:   Fri Nov 24 07:02:58 2023 +0000
+
+    upload design process including the website layout and buttons design
+
+commit 04d3fb8f1eaf0f6f65e7cc98d19379b2a819bc45
+Author: Qijing <q.wang0220222@arts.ac.uk>
+Date:   Fri Nov 24 06:56:03 2023 +0000
+
+    upload testing results
+
+commit cfb4570e3d6734579fabbc82d36e0942d15ba43b
+Author: Qijing <q.wang0220222@arts.ac.uk>
+Date:   Fri Nov 24 06:54:34 2023 +0000
+
+    upload background resources and CSS styles
+
 commit 2c833789dd34aac557e1908c2eabab59000fb67c
 Author: Qijing <q.wang0220222@arts.ac.uk>
 Date:   Fri Nov 24 06:52:19 2023 +0000
